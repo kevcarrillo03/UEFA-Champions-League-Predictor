@@ -1,0 +1,522 @@
+match_id,match_date,stage,home_team,away_team,home_goals,away_goals,target,home_country,away_country
+451637,2023-09-19 16:45:00+00:00,GROUP_STAGE,BSC Young Boys,RB Leipzig,1,3,0,Switzerland,Germany
+451623,2023-09-19 16:45:00+00:00,GROUP_STAGE,AC Milan,Newcastle United FC,0,0,1,Italy,England
+451614,2023-09-19 19:00:00+00:00,GROUP_STAGE,SS Lazio,Club Atlético de Madrid,1,1,1,Italy,Spain
+451616,2023-09-19 19:00:00+00:00,GROUP_STAGE,Feyenoord Rotterdam,Celtic FC,2,0,2,Netherlands,Scotland
+451630,2023-09-19 19:00:00+00:00,GROUP_STAGE,Paris Saint-Germain FC,Borussia Dortmund,2,0,2,France,Germany
+451640,2023-09-19 19:00:00+00:00,GROUP_STAGE,Manchester City FC,FK Crvena Zvezda,3,1,2,England,Serbia
+451647,2023-09-19 19:00:00+00:00,GROUP_STAGE,FC Barcelona,Royal Antwerp FC,5,0,2,Spain,Belgium
+451654,2023-09-19 19:00:00+00:00,GROUP_STAGE,FK Shakhtar Donetsk,FC Porto,1,3,0,Ukraine,Portugal
+451568,2023-09-20 16:45:00+00:00,GROUP_STAGE,Galatasaray SK,FC København,2,2,1,Turkey,Denmark
+451586,2023-09-20 16:45:00+00:00,GROUP_STAGE,Real Madrid CF,1. FC Union Berlin,1,0,2,Spain,Germany
+451584,2023-09-20 19:00:00+00:00,GROUP_STAGE,Sevilla FC,Racing Club de Lens,1,1,1,Spain,France
+451595,2023-09-20 19:00:00+00:00,GROUP_STAGE,Sporting Clube de Braga,SSC Napoli,1,2,0,Portugal,Italy
+451600,2023-09-20 19:00:00+00:00,GROUP_STAGE,Real Sociedad de Fútbol,FC Internazionale Milano,1,1,1,Spain,Italy
+451606,2023-09-20 19:00:00+00:00,GROUP_STAGE,Sport Lisboa e Benfica,FC Red Bull Salzburg,0,2,0,Portugal,Austria
+451565,2023-09-20 19:00:00+00:00,GROUP_STAGE,FC Bayern München,Manchester United FC,4,3,2,Germany,England
+451573,2023-09-20 19:00:00+00:00,GROUP_STAGE,Arsenal FC,PSV,4,0,2,England,Netherlands
+451603,2023-10-03 16:45:00+00:00,GROUP_STAGE,FC Red Bull Salzburg,Real Sociedad de Fútbol,0,2,0,Austria,Spain
+451587,2023-10-03 16:45:00+00:00,GROUP_STAGE,1. FC Union Berlin,Sporting Clube de Braga,2,3,0,Germany,Portugal
+451594,2023-10-03 19:00:00+00:00,GROUP_STAGE,SSC Napoli,Real Madrid CF,2,3,0,Italy,Spain
+451601,2023-10-03 19:00:00+00:00,GROUP_STAGE,FC Internazionale Milano,Sport Lisboa e Benfica,1,0,2,Italy,Portugal
+451562,2023-10-03 19:00:00+00:00,GROUP_STAGE,FC København,FC Bayern München,1,2,0,Denmark,Germany
+451572,2023-10-03 19:00:00+00:00,GROUP_STAGE,Manchester United FC,Galatasaray SK,2,3,0,England,Turkey
+451576,2023-10-03 19:00:00+00:00,GROUP_STAGE,Racing Club de Lens,Arsenal FC,2,1,2,France,England
+451581,2023-10-03 19:00:00+00:00,GROUP_STAGE,PSV,Sevilla FC,2,2,1,Netherlands,Spain
+451611,2023-10-04 16:45:00+00:00,GROUP_STAGE,Club Atlético de Madrid,Feyenoord Rotterdam,3,2,2,Spain,Netherlands
+451655,2023-10-04 16:45:00+00:00,GROUP_STAGE,Royal Antwerp FC,FK Shakhtar Donetsk,2,3,0,Belgium,Ukraine
+451617,2023-10-04 19:00:00+00:00,GROUP_STAGE,Celtic FC,SS Lazio,1,2,0,Scotland,Italy
+451622,2023-10-04 19:00:00+00:00,GROUP_STAGE,Borussia Dortmund,AC Milan,0,0,1,Germany,Italy
+451631,2023-10-04 19:00:00+00:00,GROUP_STAGE,Newcastle United FC,Paris Saint-Germain FC,4,1,2,England,France
+451634,2023-10-04 19:00:00+00:00,GROUP_STAGE,FK Crvena Zvezda,BSC Young Boys,2,2,1,Serbia,Switzerland
+451644,2023-10-04 19:00:00+00:00,GROUP_STAGE,RB Leipzig,Manchester City FC,1,3,0,Germany,England
+451646,2023-10-04 19:00:00+00:00,GROUP_STAGE,FC Porto,FC Barcelona,0,1,0,Portugal,Spain
+451597,2023-10-24 16:45:00+00:00,GROUP_STAGE,FC Internazionale Milano,FC Red Bull Salzburg,2,1,2,Italy,Austria
+451564,2023-10-24 16:45:00+00:00,GROUP_STAGE,Galatasaray SK,FC Bayern München,1,3,0,Turkey,Germany
+451589,2023-10-24 19:00:00+00:00,GROUP_STAGE,1. FC Union Berlin,SSC Napoli,0,1,0,Germany,Italy
+451592,2023-10-24 19:00:00+00:00,GROUP_STAGE,Sporting Clube de Braga,Real Madrid CF,1,2,0,Portugal,Spain
+451608,2023-10-24 19:00:00+00:00,GROUP_STAGE,Sport Lisboa e Benfica,Real Sociedad de Fútbol,0,1,0,Portugal,Spain
+451570,2023-10-24 19:00:00+00:00,GROUP_STAGE,Manchester United FC,FC København,1,0,2,England,Denmark
+451578,2023-10-24 19:00:00+00:00,GROUP_STAGE,Sevilla FC,Arsenal FC,1,2,0,Spain,England
+451580,2023-10-24 19:00:00+00:00,GROUP_STAGE,Racing Club de Lens,PSV,1,1,1,France,Netherlands
+451619,2023-10-25 16:45:00+00:00,GROUP_STAGE,Feyenoord Rotterdam,SS Lazio,3,1,2,Netherlands,Italy
+451649,2023-10-25 16:45:00+00:00,GROUP_STAGE,FC Barcelona,FK Shakhtar Donetsk,2,1,2,Spain,Ukraine
+451642,2023-10-25 19:00:00+00:00,GROUP_STAGE,RB Leipzig,FK Crvena Zvezda,3,1,2,Germany,Serbia
+451635,2023-10-25 19:00:00+00:00,GROUP_STAGE,BSC Young Boys,Manchester City FC,1,3,0,Switzerland,England
+451652,2023-10-25 19:00:00+00:00,GROUP_STAGE,Royal Antwerp FC,FC Porto,1,4,0,Belgium,Portugal
+451626,2023-10-25 19:00:00+00:00,GROUP_STAGE,Paris Saint-Germain FC,AC Milan,3,0,2,France,Italy
+451610,2023-10-25 19:00:00+00:00,GROUP_STAGE,Celtic FC,Club Atlético de Madrid,2,2,1,Scotland,Spain
+451628,2023-10-25 19:00:00+00:00,GROUP_STAGE,Newcastle United FC,Borussia Dortmund,0,1,0,England,Germany
+451627,2023-11-07 17:45:00+00:00,GROUP_STAGE,Borussia Dortmund,Newcastle United FC,2,0,2,Germany,England
+451650,2023-11-07 17:45:00+00:00,GROUP_STAGE,FK Shakhtar Donetsk,FC Barcelona,1,0,2,Ukraine,Spain
+451641,2023-11-07 20:00:00+00:00,GROUP_STAGE,FK Crvena Zvezda,RB Leipzig,1,2,0,Serbia,Germany
+451625,2023-11-07 20:00:00+00:00,GROUP_STAGE,AC Milan,Paris Saint-Germain FC,2,1,2,Italy,France
+451636,2023-11-07 20:00:00+00:00,GROUP_STAGE,Manchester City FC,BSC Young Boys,3,0,2,England,Switzerland
+451609,2023-11-07 20:00:00+00:00,GROUP_STAGE,Club Atlético de Madrid,Celtic FC,6,0,2,Spain,Scotland
+451620,2023-11-07 20:00:00+00:00,GROUP_STAGE,SS Lazio,Feyenoord Rotterdam,1,0,2,Italy,Netherlands
+451651,2023-11-07 20:00:00+00:00,GROUP_STAGE,FC Porto,Royal Antwerp FC,2,0,2,Portugal,Belgium
+451590,2023-11-08 17:45:00+00:00,GROUP_STAGE,SSC Napoli,1. FC Union Berlin,1,1,1,Italy,Germany
+451607,2023-11-08 17:45:00+00:00,GROUP_STAGE,Real Sociedad de Fútbol,Sport Lisboa e Benfica,3,1,2,Spain,Portugal
+451569,2023-11-08 20:00:00+00:00,GROUP_STAGE,FC København,Manchester United FC,4,3,2,Denmark,England
+451591,2023-11-08 20:00:00+00:00,GROUP_STAGE,Real Madrid CF,Sporting Clube de Braga,3,0,2,Spain,Portugal
+451598,2023-11-08 20:00:00+00:00,GROUP_STAGE,FC Red Bull Salzburg,FC Internazionale Milano,0,1,0,Austria,Italy
+451563,2023-11-08 20:00:00+00:00,GROUP_STAGE,FC Bayern München,Galatasaray SK,2,1,2,Germany,Turkey
+451577,2023-11-08 20:00:00+00:00,GROUP_STAGE,Arsenal FC,Sevilla FC,2,0,2,England,Spain
+451579,2023-11-08 20:00:00+00:00,GROUP_STAGE,PSV,Racing Club de Lens,1,0,2,Netherlands,France
+451618,2023-11-28 17:45:00+00:00,GROUP_STAGE,SS Lazio,Celtic FC,2,0,2,Italy,Scotland
+451656,2023-11-28 17:45:00+00:00,GROUP_STAGE,FK Shakhtar Donetsk,Royal Antwerp FC,1,0,2,Ukraine,Belgium
+451612,2023-11-28 20:00:00+00:00,GROUP_STAGE,Feyenoord Rotterdam,Club Atlético de Madrid,1,3,0,Netherlands,Spain
+451621,2023-11-28 20:00:00+00:00,GROUP_STAGE,AC Milan,Borussia Dortmund,1,3,0,Italy,Germany
+451632,2023-11-28 20:00:00+00:00,GROUP_STAGE,Paris Saint-Germain FC,Newcastle United FC,1,1,1,France,England
+451633,2023-11-28 20:00:00+00:00,GROUP_STAGE,BSC Young Boys,FK Crvena Zvezda,2,0,2,Switzerland,Serbia
+451643,2023-11-28 20:00:00+00:00,GROUP_STAGE,Manchester City FC,RB Leipzig,3,2,2,England,Germany
+451645,2023-11-28 20:00:00+00:00,GROUP_STAGE,FC Barcelona,FC Porto,2,1,2,Spain,Portugal
+451571,2023-11-29 17:45:00+00:00,GROUP_STAGE,Galatasaray SK,Manchester United FC,3,3,1,Turkey,England
+451582,2023-11-29 17:45:00+00:00,GROUP_STAGE,Sevilla FC,PSV,2,3,0,Spain,Netherlands
+451575,2023-11-29 20:00:00+00:00,GROUP_STAGE,Arsenal FC,Racing Club de Lens,6,0,2,England,France
+451561,2023-11-29 20:00:00+00:00,GROUP_STAGE,FC Bayern München,FC København,0,0,1,Germany,Denmark
+451604,2023-11-29 20:00:00+00:00,GROUP_STAGE,Real Sociedad de Fútbol,FC Red Bull Salzburg,0,0,1,Spain,Austria
+451593,2023-11-29 20:00:00+00:00,GROUP_STAGE,Real Madrid CF,SSC Napoli,4,2,2,Spain,Italy
+451588,2023-11-29 20:00:00+00:00,GROUP_STAGE,Sporting Clube de Braga,1. FC Union Berlin,1,1,1,Portugal,Germany
+451602,2023-11-29 20:00:00+00:00,GROUP_STAGE,Sport Lisboa e Benfica,FC Internazionale Milano,3,3,1,Portugal,Italy
+451574,2023-12-12 17:45:00+00:00,GROUP_STAGE,PSV,Arsenal FC,1,1,1,Netherlands,England
+451583,2023-12-12 17:45:00+00:00,GROUP_STAGE,Racing Club de Lens,Sevilla FC,2,1,2,France,Spain
+451585,2023-12-12 20:00:00+00:00,GROUP_STAGE,1. FC Union Berlin,Real Madrid CF,2,3,0,Germany,Spain
+451596,2023-12-12 20:00:00+00:00,GROUP_STAGE,SSC Napoli,Sporting Clube de Braga,2,0,2,Italy,Portugal
+451599,2023-12-12 20:00:00+00:00,GROUP_STAGE,FC Internazionale Milano,Real Sociedad de Fútbol,0,0,1,Italy,Spain
+451605,2023-12-12 20:00:00+00:00,GROUP_STAGE,FC Red Bull Salzburg,Sport Lisboa e Benfica,1,3,0,Austria,Portugal
+451566,2023-12-12 20:00:00+00:00,GROUP_STAGE,Manchester United FC,FC Bayern München,0,1,0,England,Germany
+451567,2023-12-12 20:00:00+00:00,GROUP_STAGE,FC København,Galatasaray SK,1,0,2,Denmark,Turkey
+451638,2023-12-13 17:45:00+00:00,GROUP_STAGE,RB Leipzig,BSC Young Boys,2,1,2,Germany,Switzerland
+451639,2023-12-13 17:45:00+00:00,GROUP_STAGE,FK Crvena Zvezda,Manchester City FC,2,3,0,Serbia,England
+451648,2023-12-13 20:00:00+00:00,GROUP_STAGE,Royal Antwerp FC,FC Barcelona,3,2,2,Belgium,Spain
+451653,2023-12-13 20:00:00+00:00,GROUP_STAGE,FC Porto,FK Shakhtar Donetsk,5,3,2,Portugal,Ukraine
+451629,2023-12-13 20:00:00+00:00,GROUP_STAGE,Borussia Dortmund,Paris Saint-Germain FC,1,1,1,Germany,France
+451615,2023-12-13 20:00:00+00:00,GROUP_STAGE,Celtic FC,Feyenoord Rotterdam,2,1,2,Scotland,Netherlands
+451613,2023-12-13 20:00:00+00:00,GROUP_STAGE,Club Atlético de Madrid,SS Lazio,2,0,2,Spain,Italy
+451624,2023-12-13 20:00:00+00:00,GROUP_STAGE,Newcastle United FC,AC Milan,1,2,0,England,Italy
+451663,2024-02-13 20:00:00+00:00,LAST_16,FC København,Manchester City FC,1,3,0,Denmark,England
+451664,2024-02-13 20:00:00+00:00,LAST_16,RB Leipzig,Real Madrid CF,0,1,0,Germany,Spain
+451659,2024-02-14 20:00:00+00:00,LAST_16,Paris Saint-Germain FC,Real Sociedad de Fútbol,2,0,2,France,Spain
+451662,2024-02-14 20:00:00+00:00,LAST_16,SS Lazio,FC Bayern München,1,0,2,Italy,Germany
+451660,2024-02-20 20:00:00+00:00,LAST_16,FC Internazionale Milano,Club Atlético de Madrid,1,0,2,Italy,Spain
+451661,2024-02-20 20:00:00+00:00,LAST_16,PSV,Borussia Dortmund,1,1,1,Netherlands,Germany
+451657,2024-02-21 20:00:00+00:00,LAST_16,FC Porto,Arsenal FC,1,0,2,Portugal,England
+451658,2024-02-21 20:00:00+00:00,LAST_16,SSC Napoli,FC Barcelona,1,1,1,Italy,Spain
+451667,2024-03-05 20:00:00+00:00,LAST_16,Real Sociedad de Fútbol,Paris Saint-Germain FC,1,2,0,Spain,France
+451670,2024-03-05 20:00:00+00:00,LAST_16,FC Bayern München,SS Lazio,3,0,2,Germany,Italy
+451671,2024-03-06 20:00:00+00:00,LAST_16,Manchester City FC,FC København,3,1,2,England,Denmark
+451672,2024-03-06 20:00:00+00:00,LAST_16,Real Madrid CF,RB Leipzig,1,1,1,Spain,Germany
+451666,2024-03-12 20:00:00+00:00,LAST_16,FC Barcelona,SSC Napoli,3,1,2,Spain,Italy
+451665,2024-03-12 20:00:00+00:00,LAST_16,Arsenal FC,FC Porto,5,2,2,England,Portugal
+451668,2024-03-13 20:00:00+00:00,LAST_16,Club Atlético de Madrid,FC Internazionale Milano,5,3,2,Spain,Italy
+451669,2024-03-13 20:00:00+00:00,LAST_16,Borussia Dortmund,PSV,2,0,2,Germany,Netherlands
+451673,2024-04-09 19:00:00+00:00,QUARTER_FINALS,Arsenal FC,FC Bayern München,2,2,1,England,Germany
+451675,2024-04-09 19:00:00+00:00,QUARTER_FINALS,Real Madrid CF,Manchester City FC,3,3,1,Spain,England
+451674,2024-04-10 19:00:00+00:00,QUARTER_FINALS,Club Atlético de Madrid,Borussia Dortmund,2,1,2,Spain,Germany
+451676,2024-04-10 19:00:00+00:00,QUARTER_FINALS,Paris Saint-Germain FC,FC Barcelona,2,3,0,France,Spain
+451680,2024-04-16 19:00:00+00:00,QUARTER_FINALS,FC Barcelona,Paris Saint-Germain FC,1,4,0,Spain,France
+451678,2024-04-16 19:00:00+00:00,QUARTER_FINALS,Borussia Dortmund,Club Atlético de Madrid,4,2,2,Germany,Spain
+451677,2024-04-17 19:00:00+00:00,QUARTER_FINALS,FC Bayern München,Arsenal FC,1,0,2,Germany,England
+451679,2024-04-17 19:00:00+00:00,QUARTER_FINALS,Manchester City FC,Real Madrid CF,4,5,0,England,Spain
+451682,2024-04-30 19:00:00+00:00,SEMI_FINALS,FC Bayern München,Real Madrid CF,2,2,1,Germany,Spain
+451681,2024-05-01 19:00:00+00:00,SEMI_FINALS,Borussia Dortmund,Paris Saint-Germain FC,1,0,2,Germany,France
+451683,2024-05-07 19:00:00+00:00,SEMI_FINALS,Paris Saint-Germain FC,Borussia Dortmund,0,1,0,France,Germany
+451684,2024-05-08 19:00:00+00:00,SEMI_FINALS,Real Madrid CF,FC Bayern München,2,1,2,Spain,Germany
+451685,2024-06-01 19:00:00+00:00,FINAL,Borussia Dortmund,Real Madrid CF,0,2,0,Germany,Spain
+524039,2024-09-17 16:45:00+00:00,LEAGUE_STAGE,BSC Young Boys,Aston Villa FC,0,3,0,Switzerland,England
+523998,2024-09-17 16:45:00+00:00,LEAGUE_STAGE,Juventus FC,PSV,3,1,2,Italy,Netherlands
+523967,2024-09-17 19:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,VfB Stuttgart,3,1,2,Spain,Germany
+523968,2024-09-17 19:00:00+00:00,LEAGUE_STAGE,AC Milan,Liverpool FC,1,3,0,Italy,England
+524034,2024-09-17 19:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Lille OSC,2,0,2,Portugal,France
+523934,2024-09-17 19:00:00+00:00,LEAGUE_STAGE,FC Bayern München,GNK Dinamo Zagreb,9,2,2,Germany,Croatia
+524049,2024-09-18 16:45:00+00:00,LEAGUE_STAGE,Bologna FC 1909,FK Shakhtar Donetsk,0,0,1,Italy,Ukraine
+524062,2024-09-18 16:45:00+00:00,LEAGUE_STAGE,AC Sparta Praha,FC Red Bull Salzburg,3,0,2,Czech Republic,Austria
+524007,2024-09-18 19:00:00+00:00,LEAGUE_STAGE,Celtic FC,ŠK Slovan Bratislava,5,1,2,Scotland,Slovakia
+523952,2024-09-18 19:00:00+00:00,LEAGUE_STAGE,Manchester City FC,FC Internazionale Milano,0,0,1,England,Italy
+523988,2024-09-18 19:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,Borussia Dortmund,0,3,0,Belgium,Germany
+523959,2024-09-18 19:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Girona FC,1,0,2,France,Spain
+524013,2024-09-19 16:45:00+00:00,LEAGUE_STAGE,Feyenoord Rotterdam,Bayer 04 Leverkusen,0,4,0,Netherlands,Germany
+524029,2024-09-19 16:45:00+00:00,LEAGUE_STAGE,FK Crvena Zvezda,Sport Lisboa e Benfica,1,2,0,Serbia,Portugal
+524040,2024-09-19 19:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,FC Barcelona,2,1,2,Monaco,Spain
+524067,2024-09-19 19:00:00+00:00,LEAGUE_STAGE,Stade Brestois 29,SK Sturm Graz,2,1,2,France,Austria
+523973,2024-09-19 19:00:00+00:00,LEAGUE_STAGE,Atalanta BC,Arsenal FC,0,0,1,Italy,England
+523976,2024-09-19 19:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,RB Leipzig,2,1,2,Spain,Germany
+524075,2024-10-01 16:45:00+00:00,LEAGUE_STAGE,VfB Stuttgart,AC Sparta Praha,1,1,1,Germany,Czech Republic
+524027,2024-10-01 16:45:00+00:00,LEAGUE_STAGE,FC Red Bull Salzburg,Stade Brestois 29,0,4,0,Austria,France
+524022,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,PSV,Sporting Clube de Portugal,1,1,1,Netherlands,Portugal
+523992,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,Arsenal FC,Paris Saint-Germain FC,2,0,2,England,France
+523981,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,AC Milan,1,0,2,Germany,Italy
+523938,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,Celtic FC,7,1,2,Germany,Scotland
+523942,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,FC Barcelona,BSC Young Boys,5,0,2,Spain,Switzerland
+524056,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,ŠK Slovan Bratislava,Manchester City FC,0,4,0,Slovakia,England
+523950,2024-10-01 19:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,FK Crvena Zvezda,4,0,2,Italy,Serbia
+524054,2024-10-02 16:45:00+00:00,LEAGUE_STAGE,Girona FC,Feyenoord Rotterdam,2,3,0,Spain,Netherlands
+524001,2024-10-02 16:45:00+00:00,LEAGUE_STAGE,FK Shakhtar Donetsk,Atalanta BC,0,3,0,Ukraine,Italy
+524016,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,Lille OSC,Real Madrid CF,1,0,2,France,Spain
+524069,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,SK Sturm Graz,Club Brugge KV,0,1,0,Austria,Belgium
+523947,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Bologna FC 1909,2,0,2,England,Italy
+523961,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,RB Leipzig,Juventus FC,2,3,0,Germany,Italy
+523985,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Club Atlético de Madrid,4,0,2,Portugal,Spain
+524011,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,GNK Dinamo Zagreb,AS Monaco FC,2,2,1,Croatia,Monaco
+524044,2024-10-02 19:00:00+00:00,LEAGUE_STAGE,Aston Villa FC,FC Bayern München,1,0,2,England,Germany
+523969,2024-10-22 16:45:00+00:00,LEAGUE_STAGE,AC Milan,Club Brugge KV,3,1,2,Italy,Belgium
+524042,2024-10-22 16:45:00+00:00,LEAGUE_STAGE,AS Monaco FC,FK Crvena Zvezda,5,1,2,Monaco,Serbia
+524055,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Girona FC,ŠK Slovan Bratislava,2,0,2,Spain,Slovakia
+524070,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,SK Sturm Graz,Sporting Clube de Portugal,0,2,0,Austria,Portugal
+523958,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,PSV,1,1,1,France,Netherlands
+523964,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,Borussia Dortmund,5,2,2,Spain,Germany
+523993,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Arsenal FC,FK Shakhtar Donetsk,1,0,2,England,Ukraine
+523999,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Juventus FC,VfB Stuttgart,0,1,0,Italy,Germany
+524047,2024-10-22 19:00:00+00:00,LEAGUE_STAGE,Aston Villa FC,Bologna FC 1909,2,0,2,England,Italy
+524065,2024-10-23 16:45:00+00:00,LEAGUE_STAGE,Stade Brestois 29,Bayer 04 Leverkusen,1,1,1,France,Germany
+523974,2024-10-23 16:45:00+00:00,LEAGUE_STAGE,Atalanta BC,Celtic FC,0,0,1,Italy,Scotland
+523955,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,Manchester City FC,AC Sparta Praha,5,0,2,England,Czech Republic
+523960,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,RB Leipzig,Liverpool FC,0,1,0,Germany,England
+523978,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,Lille OSC,1,3,0,Spain,France
+523986,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Feyenoord Rotterdam,1,3,0,Portugal,Netherlands
+524026,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,FC Red Bull Salzburg,GNK Dinamo Zagreb,0,2,0,Austria,Croatia
+524036,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,BSC Young Boys,FC Internazionale Milano,0,1,0,Switzerland,Italy
+523940,2024-10-23 19:00:00+00:00,LEAGUE_STAGE,FC Barcelona,FC Bayern München,4,1,2,Spain,Germany
+524058,2024-11-05 17:45:00+00:00,LEAGUE_STAGE,ŠK Slovan Bratislava,GNK Dinamo Zagreb,1,4,0,Slovakia,Croatia
+524023,2024-11-05 17:45:00+00:00,LEAGUE_STAGE,PSV,Girona FC,4,0,2,Netherlands,Spain
+523965,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,AC Milan,1,3,0,Spain,Italy
+524004,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Celtic FC,RB Leipzig,3,1,2,Scotland,Germany
+524051,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Bologna FC 1909,AS Monaco FC,0,1,0,Italy,Monaco
+524032,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Manchester City FC,4,1,2,Portugal,England
+524017,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Lille OSC,Juventus FC,1,1,1,France,Italy
+523945,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Bayer 04 Leverkusen,4,0,2,England,Germany
+523939,2024-11-05 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,SK Sturm Graz,1,0,2,Germany,Austria
+524002,2024-11-06 17:45:00+00:00,LEAGUE_STAGE,FK Shakhtar Donetsk,BSC Young Boys,2,1,2,Ukraine,Switzerland
+523991,2024-11-06 17:45:00+00:00,LEAGUE_STAGE,Club Brugge KV,Aston Villa FC,1,0,2,Belgium,England
+524063,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,AC Sparta Praha,Stade Brestois 29,1,2,0,Czech Republic,France
+524073,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,VfB Stuttgart,Atalanta BC,0,2,0,Germany,Italy
+523949,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,Arsenal FC,1,0,2,Italy,England
+523957,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Club Atlético de Madrid,1,2,0,France,Spain
+524014,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,Feyenoord Rotterdam,FC Red Bull Salzburg,1,3,0,Netherlands,Austria
+524028,2024-11-06 20:00:00+00:00,LEAGUE_STAGE,FK Crvena Zvezda,FC Barcelona,2,5,0,Serbia,Spain
+523933,2024-11-06 20:15:00+00:00,LEAGUE_STAGE,FC Bayern München,Sport Lisboa e Benfica,1,0,2,Germany,Portugal
+524061,2024-11-26 17:45:00+00:00,LEAGUE_STAGE,AC Sparta Praha,Club Atlético de Madrid,0,6,0,Czech Republic,Spain
+524057,2024-11-26 17:45:00+00:00,LEAGUE_STAGE,ŠK Slovan Bratislava,AC Milan,2,3,0,Slovakia,Italy
+524033,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Arsenal FC,1,5,0,Portugal,England
+524037,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,BSC Young Boys,Atalanta BC,1,6,0,Switzerland,Italy
+523932,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,FC Bayern München,Paris Saint-Germain FC,1,0,2,Germany,France
+523943,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,FC Barcelona,Stade Brestois 29,3,0,2,Spain,France
+523948,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,RB Leipzig,1,0,2,Italy,Germany
+523954,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,Manchester City FC,Feyenoord Rotterdam,3,3,1,England,Netherlands
+523982,2024-11-26 20:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,FC Red Bull Salzburg,5,0,2,Germany,Austria
+524071,2024-11-27 17:45:00+00:00,LEAGUE_STAGE,SK Sturm Graz,Girona FC,1,0,2,Austria,Spain
+524031,2024-11-27 17:45:00+00:00,LEAGUE_STAGE,FK Crvena Zvezda,VfB Stuttgart,5,1,2,Serbia,Germany
+524021,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,PSV,FK Shakhtar Donetsk,3,2,2,Netherlands,Ukraine
+524008,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,GNK Dinamo Zagreb,Borussia Dortmund,0,3,0,Croatia,Germany
+524045,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,Aston Villa FC,Juventus FC,0,0,1,England,Italy
+523944,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Real Madrid CF,2,0,2,England,Spain
+524050,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,Bologna FC 1909,Lille OSC,1,2,0,Italy,France
+524041,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,Sport Lisboa e Benfica,2,3,0,Monaco,Portugal
+524005,2024-11-27 20:00:00+00:00,LEAGUE_STAGE,Celtic FC,Club Brugge KV,1,1,1,Scotland,Belgium
+524052,2024-12-10 17:45:00+00:00,LEAGUE_STAGE,Girona FC,Liverpool FC,0,1,0,Spain,England
+524010,2024-12-10 17:45:00+00:00,LEAGUE_STAGE,GNK Dinamo Zagreb,Celtic FC,0,0,1,Croatia,Scotland
+524024,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,FC Red Bull Salzburg,Paris Saint-Germain FC,0,3,0,Austria,France
+524000,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,FK Shakhtar Donetsk,FC Bayern München,1,5,0,Ukraine,Germany
+523972,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,Atalanta BC,Real Madrid CF,2,3,0,Italy,Spain
+523980,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,FC Internazionale Milano,1,0,2,Germany,Italy
+523963,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,RB Leipzig,Aston Villa FC,2,3,0,Germany,England
+524066,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,Stade Brestois 29,PSV,1,0,2,France,Netherlands
+523990,2024-12-10 20:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,Sporting Clube de Portugal,2,1,2,Belgium,Portugal
+523979,2024-12-11 17:45:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,ŠK Slovan Bratislava,3,1,2,Spain,Slovakia
+524019,2024-12-11 17:45:00+00:00,LEAGUE_STAGE,Lille OSC,SK Sturm Graz,3,2,2,France,Austria
+523936,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,FC Barcelona,2,3,0,Germany,Spain
+523970,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,AC Milan,FK Crvena Zvezda,2,1,2,Italy,Serbia
+523987,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Bologna FC 1909,0,0,1,Portugal,Italy
+523995,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,Arsenal FC,AS Monaco FC,3,0,2,England,Monaco
+523996,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,Juventus FC,Manchester City FC,2,0,2,Italy,England
+524015,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,Feyenoord Rotterdam,AC Sparta Praha,4,2,2,Netherlands,Czech Republic
+524074,2024-12-11 20:00:00+00:00,LEAGUE_STAGE,VfB Stuttgart,BSC Young Boys,5,1,2,Germany,Switzerland
+524043,2025-01-21 17:45:00+00:00,LEAGUE_STAGE,AS Monaco FC,Aston Villa FC,1,0,2,Monaco,England
+523975,2025-01-21 17:45:00+00:00,LEAGUE_STAGE,Atalanta BC,SK Sturm Graz,5,0,2,Italy,Austria
+524030,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,FK Crvena Zvezda,PSV,2,3,0,Serbia,Netherlands
+523989,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,Juventus FC,0,0,1,Belgium,Italy
+523977,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,Bayer 04 Leverkusen,2,1,2,Spain,Germany
+523946,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Lille OSC,2,1,2,England,France
+524048,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,Bologna FC 1909,Borussia Dortmund,2,1,2,Italy,Germany
+523984,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,FC Barcelona,4,5,0,Portugal,Spain
+524059,2025-01-21 20:00:00+00:00,LEAGUE_STAGE,ŠK Slovan Bratislava,VfB Stuttgart,1,3,0,Slovakia,Germany
+523962,2025-01-22 17:45:00+00:00,LEAGUE_STAGE,RB Leipzig,Sporting Clube de Portugal,2,1,2,Germany,Portugal
+524003,2025-01-22 17:45:00+00:00,LEAGUE_STAGE,FK Shakhtar Donetsk,Stade Brestois 29,2,0,2,Ukraine,France
+524060,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,AC Sparta Praha,FC Internazionale Milano,0,1,0,Czech Republic,Italy
+523956,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Manchester City FC,4,2,2,France,England
+523966,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,FC Red Bull Salzburg,5,1,2,Spain,Austria
+523971,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,AC Milan,Girona FC,1,0,2,Italy,Spain
+524012,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,Feyenoord Rotterdam,FC Bayern München,3,0,2,Netherlands,Germany
+524006,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,Celtic FC,BSC Young Boys,1,0,2,Scotland,Switzerland
+523994,2025-01-22 20:00:00+00:00,LEAGUE_STAGE,Arsenal FC,GNK Dinamo Zagreb,3,0,2,England,Croatia
+524035,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Bologna FC 1909,1,1,1,Portugal,Italy
+524025,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,FC Red Bull Salzburg,Club Atlético de Madrid,1,4,0,Austria,Spain
+524020,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,PSV,Liverpool FC,3,2,2,Netherlands,England
+524018,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Lille OSC,Feyenoord Rotterdam,6,1,2,France,Netherlands
+524009,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,GNK Dinamo Zagreb,AC Milan,2,1,2,Croatia,Italy
+523997,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Juventus FC,Sport Lisboa e Benfica,0,2,0,Italy,Portugal
+523983,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,AC Sparta Praha,2,0,2,Germany,Czech Republic
+523953,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Manchester City FC,Club Brugge KV,3,1,2,England,Belgium
+524038,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,BSC Young Boys,FK Crvena Zvezda,0,1,0,Switzerland,Serbia
+523941,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,FC Barcelona,Atalanta BC,2,2,1,Spain,Italy
+523951,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,AS Monaco FC,3,0,2,Italy,Monaco
+524053,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Girona FC,Arsenal FC,1,2,0,Spain,England
+524064,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Stade Brestois 29,Real Madrid CF,0,3,0,France,Spain
+524046,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Aston Villa FC,Celtic FC,4,2,2,England,Scotland
+524072,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,VfB Stuttgart,Paris Saint-Germain FC,1,4,0,Germany,France
+523935,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,FC Bayern München,ŠK Slovan Bratislava,3,1,2,Germany,Slovakia
+524068,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,SK Sturm Graz,RB Leipzig,1,0,2,Austria,Germany
+523937,2025-01-29 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,FK Shakhtar Donetsk,3,1,2,Germany,Ukraine
+524076,2025-02-11 17:45:00+00:00,PLAYOFFS,Stade Brestois 29,Paris Saint-Germain FC,0,3,0,France,France
+524082,2025-02-11 20:00:00+00:00,PLAYOFFS,Sporting Clube de Portugal,Borussia Dortmund,0,3,0,Portugal,Germany
+524077,2025-02-11 20:00:00+00:00,PLAYOFFS,Manchester City FC,Real Madrid CF,2,3,0,England,Spain
+524081,2025-02-11 20:00:00+00:00,PLAYOFFS,Juventus FC,PSV,2,1,2,Italy,Netherlands
+524080,2025-02-12 17:45:00+00:00,PLAYOFFS,Club Brugge KV,Atalanta BC,2,1,2,Belgium,Italy
+524078,2025-02-12 20:00:00+00:00,PLAYOFFS,AS Monaco FC,Sport Lisboa e Benfica,0,1,0,Monaco,Portugal
+524083,2025-02-12 20:00:00+00:00,PLAYOFFS,Feyenoord Rotterdam,AC Milan,1,0,2,Netherlands,Italy
+524079,2025-02-12 20:00:00+00:00,PLAYOFFS,Celtic FC,FC Bayern München,1,2,0,Scotland,Germany
+524091,2025-02-18 17:45:00+00:00,PLAYOFFS,AC Milan,Feyenoord Rotterdam,1,1,1,Italy,Netherlands
+524086,2025-02-18 20:00:00+00:00,PLAYOFFS,Sport Lisboa e Benfica,AS Monaco FC,3,3,1,Portugal,Monaco
+524087,2025-02-18 20:00:00+00:00,PLAYOFFS,FC Bayern München,Celtic FC,1,1,1,Germany,Scotland
+524088,2025-02-18 20:00:00+00:00,PLAYOFFS,Atalanta BC,Club Brugge KV,1,3,0,Italy,Belgium
+524090,2025-02-19 17:45:00+00:00,PLAYOFFS,Borussia Dortmund,Sporting Clube de Portugal,0,0,1,Germany,Portugal
+524085,2025-02-19 20:00:00+00:00,PLAYOFFS,Real Madrid CF,Manchester City FC,3,1,2,Spain,England
+524089,2025-02-19 20:00:00+00:00,PLAYOFFS,PSV,Juventus FC,3,1,2,Netherlands,Italy
+524084,2025-02-19 20:00:00+00:00,PLAYOFFS,Paris Saint-Germain FC,Stade Brestois 29,7,0,2,France,France
+524093,2025-03-04 17:45:00+00:00,LAST_16,Club Brugge KV,Aston Villa FC,1,3,0,Belgium,England
+524098,2025-03-04 20:00:00+00:00,LAST_16,Borussia Dortmund,Lille OSC,1,1,1,Germany,France
+524095,2025-03-04 20:00:00+00:00,LAST_16,PSV,Arsenal FC,1,7,0,Netherlands,England
+524094,2025-03-04 20:00:00+00:00,LAST_16,Real Madrid CF,Club Atlético de Madrid,2,1,2,Spain,Spain
+524096,2025-03-05 17:45:00+00:00,LAST_16,Feyenoord Rotterdam,FC Internazionale Milano,0,2,0,Netherlands,Italy
+524092,2025-03-05 20:00:00+00:00,LAST_16,Paris Saint-Germain FC,Liverpool FC,0,1,0,France,England
+524097,2025-03-05 20:00:00+00:00,LAST_16,FC Bayern München,Bayer 04 Leverkusen,3,0,2,Germany,Germany
+524099,2025-03-05 20:00:00+00:00,LAST_16,Sport Lisboa e Benfica,FC Barcelona,0,1,0,Portugal,Spain
+524107,2025-03-11 17:45:00+00:00,LAST_16,FC Barcelona,Sport Lisboa e Benfica,3,1,2,Spain,Portugal
+524100,2025-03-11 20:00:00+00:00,LAST_16,Liverpool FC,Paris Saint-Germain FC,1,5,0,England,France
+524104,2025-03-11 20:00:00+00:00,LAST_16,FC Internazionale Milano,Feyenoord Rotterdam,2,1,2,Italy,Netherlands
+524105,2025-03-11 20:00:00+00:00,LAST_16,Bayer 04 Leverkusen,FC Bayern München,0,2,0,Germany,Germany
+524106,2025-03-12 17:45:00+00:00,LAST_16,Lille OSC,Borussia Dortmund,1,2,0,France,Germany
+524103,2025-03-12 20:00:00+00:00,LAST_16,Arsenal FC,PSV,2,2,1,England,Netherlands
+524101,2025-03-12 20:00:00+00:00,LAST_16,Aston Villa FC,Club Brugge KV,3,0,2,England,Belgium
+524102,2025-03-12 20:00:00+00:00,LAST_16,Club Atlético de Madrid,Real Madrid CF,3,4,0,Spain,Spain
+524108,2025-04-08 19:00:00+00:00,QUARTER_FINALS,Arsenal FC,Real Madrid CF,3,0,2,England,Spain
+524111,2025-04-08 19:00:00+00:00,QUARTER_FINALS,FC Bayern München,FC Internazionale Milano,1,2,0,Germany,Italy
+524109,2025-04-09 19:00:00+00:00,QUARTER_FINALS,Paris Saint-Germain FC,Aston Villa FC,3,1,2,France,England
+524110,2025-04-09 19:00:00+00:00,QUARTER_FINALS,FC Barcelona,Borussia Dortmund,4,0,2,Spain,Germany
+524113,2025-04-15 19:00:00+00:00,QUARTER_FINALS,Aston Villa FC,Paris Saint-Germain FC,3,2,2,England,France
+524114,2025-04-15 19:00:00+00:00,QUARTER_FINALS,Borussia Dortmund,FC Barcelona,3,1,2,Germany,Spain
+524112,2025-04-16 19:00:00+00:00,QUARTER_FINALS,Real Madrid CF,Arsenal FC,1,2,0,Spain,England
+524115,2025-04-16 19:00:00+00:00,QUARTER_FINALS,FC Internazionale Milano,FC Bayern München,2,2,1,Italy,Germany
+524116,2025-04-29 19:00:00+00:00,SEMI_FINALS,Arsenal FC,Paris Saint-Germain FC,0,1,0,England,France
+524117,2025-04-30 19:00:00+00:00,SEMI_FINALS,FC Barcelona,FC Internazionale Milano,3,3,1,Spain,Italy
+524119,2025-05-06 19:00:00+00:00,SEMI_FINALS,FC Internazionale Milano,FC Barcelona,4,3,2,Italy,Spain
+524118,2025-05-07 19:00:00+00:00,SEMI_FINALS,Paris Saint-Germain FC,Arsenal FC,2,1,2,France,England
+524120,2025-05-31 19:00:00+00:00,FINAL,Paris Saint-Germain FC,FC Internazionale Milano,5,0,2,France,Italy
+551981,2025-09-16 16:45:00+00:00,LEAGUE_STAGE,Athletic Club,Arsenal FC,0,2,0,Spain,England
+552049,2025-09-16 16:45:00+00:00,LEAGUE_STAGE,PSV,Royale Union Saint-Gilloise,1,3,0,Netherlands,Belgium
+551941,2025-09-16 19:00:00+00:00,LEAGUE_STAGE,Juventus FC,Borussia Dortmund,4,4,1,Italy,Germany
+551991,2025-09-16 19:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Qarabağ Ağdam FK,2,3,0,Portugal,Azerbaijan
+551927,2025-09-16 19:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,Olympique de Marseille,2,1,2,Spain,France
+552012,2025-09-16 19:00:00+00:00,LEAGUE_STAGE,Tottenham Hotspur FC,Villarreal CF,1,0,2,England,Spain
+552023,2025-09-17 16:45:00+00:00,LEAGUE_STAGE,SK Slavia Praha,FK Bodø/Glimt,2,2,1,Czech Republic,Norway
+552031,2025-09-17 16:45:00+00:00,LEAGUE_STAGE,PAE Olympiakos SFP,Paphos FC,0,0,1,Greece,Cyprus
+551946,2025-09-17 19:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Club Atlético de Madrid,3,2,2,England,Spain
+551959,2025-09-17 19:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Atalanta BC,4,0,2,France,Italy
+551908,2025-09-17 19:00:00+00:00,LEAGUE_STAGE,FC Bayern München,Chelsea FC,3,1,2,Germany,England
+551936,2025-09-17 19:00:00+00:00,LEAGUE_STAGE,AFC Ajax,FC Internazionale Milano,0,2,0,Netherlands,Italy
+551975,2025-09-18 16:45:00+00:00,LEAGUE_STAGE,FC København,Bayer 04 Leverkusen,2,2,1,Denmark,Germany
+551995,2025-09-18 16:45:00+00:00,LEAGUE_STAGE,Club Brugge KV,AS Monaco FC,4,1,2,Belgium,Monaco
+551958,2025-09-18 19:00:00+00:00,LEAGUE_STAGE,Newcastle United FC,FC Barcelona,1,2,0,England,Spain
+551965,2025-09-18 19:00:00+00:00,LEAGUE_STAGE,Manchester City FC,SSC Napoli,2,0,2,England,Italy
+552000,2025-09-18 19:00:00+00:00,LEAGUE_STAGE,Eintracht Frankfurt,Galatasaray SK,5,1,2,Germany,Turkey
+552027,2025-09-18 19:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,FK Kairat,4,1,2,Portugal,Kazakhstan
+551982,2025-09-30 16:45:00+00:00,LEAGUE_STAGE,Atalanta BC,Club Brugge KV,2,1,2,Italy,Belgium
+551930,2025-09-30 16:45:00+00:00,LEAGUE_STAGE,FK Kairat,Real Madrid CF,0,5,0,Kazakhstan,Spain
+551917,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,Chelsea FC,Sport Lisboa e Benfica,1,0,2,England,Portugal
+551915,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,Paphos FC,FC Bayern München,1,5,0,Cyprus,Germany
+551935,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,SK Slavia Praha,3,0,2,Italy,Czech Republic
+552015,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,Olympique de Marseille,AFC Ajax,4,0,2,France,Netherlands
+551997,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,Eintracht Frankfurt,5,1,2,Spain,Germany
+551951,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,Galatasaray SK,Liverpool FC,1,0,2,Turkey,England
+552020,2025-09-30 19:00:00+00:00,LEAGUE_STAGE,FK Bodø/Glimt,Tottenham Hotspur FC,2,2,1,Norway,England
+552039,2025-10-01 16:45:00+00:00,LEAGUE_STAGE,Qarabağ Ağdam FK,FC København,2,0,2,Azerbaijan,Denmark
+552044,2025-10-01 16:45:00+00:00,LEAGUE_STAGE,Royale Union Saint-Gilloise,Newcastle United FC,0,4,0,Belgium,England
+551952,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,FC Barcelona,Paris Saint-Germain FC,1,2,0,Spain,France
+551944,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,Athletic Club,4,1,2,Germany,Spain
+552002,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,Villarreal CF,Juventus FC,2,2,1,Spain,Italy
+552026,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,SSC Napoli,Sporting Clube de Portugal,2,1,2,Italy,Portugal
+551972,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,PSV,1,1,1,Germany,Netherlands
+551968,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,Manchester City FC,2,2,1,Monaco,England
+551978,2025-10-01 19:00:00+00:00,LEAGUE_STAGE,Arsenal FC,PAE Olympiakos SFP,2,0,2,England,Greece
+551955,2025-10-21 16:45:00+00:00,LEAGUE_STAGE,FC Barcelona,PAE Olympiakos SFP,6,1,2,Spain,Greece
+552045,2025-10-21 16:45:00+00:00,LEAGUE_STAGE,FK Kairat,Paphos FC,0,0,1,Kazakhstan,Cyprus
+551945,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,FC København,Borussia Dortmund,2,4,0,Denmark,Germany
+551960,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,Paris Saint-Germain FC,2,7,0,Germany,France
+551964,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,Villarreal CF,Manchester City FC,0,2,0,Spain,England
+551976,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,Arsenal FC,Club Atlético de Madrid,4,0,2,England,Spain
+551992,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,Newcastle United FC,Sport Lisboa e Benfica,3,0,2,England,Portugal
+552048,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,PSV,SSC Napoli,6,2,2,Netherlands,Italy
+551938,2025-10-21 19:00:00+00:00,LEAGUE_STAGE,Royale Union Saint-Gilloise,FC Internazionale Milano,0,4,0,Belgium,Italy
+552040,2025-10-22 16:45:00+00:00,LEAGUE_STAGE,Athletic Club,Qarabağ Ağdam FK,3,1,2,Spain,Azerbaijan
+552025,2025-10-22 16:45:00+00:00,LEAGUE_STAGE,Galatasaray SK,FK Bodø/Glimt,3,1,2,Turkey,Norway
+551984,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,Atalanta BC,SK Slavia Praha,0,0,1,Italy,Czech Republic
+551925,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,Juventus FC,1,0,2,Spain,Italy
+551919,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,Chelsea FC,AFC Ajax,5,1,2,England,Netherlands
+551947,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,Eintracht Frankfurt,Liverpool FC,1,5,0,Germany,England
+552022,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,Tottenham Hotspur FC,0,0,1,Monaco,England
+552016,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Olympique de Marseille,2,1,2,Portugal,France
+551910,2025-10-22 19:00:00+00:00,LEAGUE_STAGE,FC Bayern München,Club Brugge KV,4,0,2,Germany,Belgium
+551979,2025-11-04 17:45:00+00:00,LEAGUE_STAGE,SK Slavia Praha,Arsenal FC,0,3,0,Czech Republic,England
+551999,2025-11-04 17:45:00+00:00,LEAGUE_STAGE,SSC Napoli,Eintracht Frankfurt,0,0,1,Italy,Germany
+552003,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,Juventus FC,Sporting Clube de Portugal,1,1,1,Italy,Portugal
+552009,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,Royale Union Saint-Gilloise,3,1,2,Spain,Belgium
+552024,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,FK Bodø/Glimt,AS Monaco FC,0,1,0,Norway,Monaco
+552029,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,PAE Olympiakos SFP,PSV,1,1,1,Greece,Netherlands
+551909,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,FC Bayern München,1,2,0,France,Germany
+551924,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Real Madrid CF,1,0,2,England,Spain
+552021,2025-11-04 20:00:00+00:00,LEAGUE_STAGE,Tottenham Hotspur FC,FC København,4,0,2,England,Denmark
+552014,2025-11-05 17:45:00+00:00,LEAGUE_STAGE,Paphos FC,Villarreal CF,1,0,2,Cyprus,Spain
+551922,2025-11-05 17:45:00+00:00,LEAGUE_STAGE,Qarabağ Ağdam FK,Chelsea FC,2,2,1,Azerbaijan,England
+552033,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,AFC Ajax,Galatasaray SK,0,3,0,Netherlands,Turkey
+552047,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,Newcastle United FC,Athletic Club,2,0,2,England,Spain
+551985,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,Olympique de Marseille,Atalanta BC,0,1,0,France,Italy
+551954,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,FC Barcelona,3,3,1,Belgium,Spain
+551939,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,Manchester City FC,Borussia Dortmund,4,1,2,England,Germany
+551937,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,FK Kairat,2,1,2,Italy,Kazakhstan
+551971,2025-11-05 20:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Bayer 04 Leverkusen,0,1,0,Portugal,Germany
+551990,2025-11-25 17:45:00+00:00,LEAGUE_STAGE,AFC Ajax,Sport Lisboa e Benfica,0,2,0,Netherlands,Portugal
+552043,2025-11-25 17:45:00+00:00,LEAGUE_STAGE,Galatasaray SK,Royale Union Saint-Gilloise,0,1,0,Turkey,Belgium
+552037,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,SSC Napoli,Qarabağ Ağdam FK,2,0,2,Italy,Azerbaijan
+552035,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,SK Slavia Praha,Athletic Club,0,0,1,Czech Republic,Spain
+551916,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,Chelsea FC,FC Barcelona,3,0,2,England,Spain
+552004,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,FK Bodø/Glimt,Juventus FC,2,3,0,Norway,Italy
+551963,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,Manchester City FC,Bayer 04 Leverkusen,0,2,0,England,Germany
+551940,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,Villarreal CF,4,0,2,Germany,Spain
+552017,2025-11-25 20:00:00+00:00,LEAGUE_STAGE,Olympique de Marseille,Newcastle United FC,2,1,2,France,England
+552042,2025-11-26 17:45:00+00:00,LEAGUE_STAGE,Paphos FC,AS Monaco FC,2,2,1,Cyprus,Monaco
+552046,2025-11-26 17:45:00+00:00,LEAGUE_STAGE,FC København,FK Kairat,3,2,2,Denmark,Kazakhstan
+551948,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,PSV,1,4,0,England,Netherlands
+551961,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Tottenham Hotspur FC,5,3,2,France,England
+551983,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Eintracht Frankfurt,Atalanta BC,0,3,0,Germany,Italy
+551911,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Arsenal FC,FC Bayern München,3,1,2,England,Germany
+551928,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,PAE Olympiakos SFP,Real Madrid CF,3,4,0,Greece,Spain
+551934,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,FC Internazionale Milano,2,1,2,Spain,Italy
+551994,2025-11-26 20:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Club Brugge KV,3,0,2,Portugal,Belgium
+552032,2025-12-09 15:30:00+00:00,LEAGUE_STAGE,FK Kairat,PAE Olympiakos SFP,0,1,0,Kazakhstan,Greece
+551912,2025-12-09 17:45:00+00:00,LEAGUE_STAGE,FC Bayern München,Sporting Clube de Portugal,3,1,2,Germany,Portugal
+552019,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,Tottenham Hotspur FC,SK Slavia Praha,3,0,2,England,Czech Republic
+551931,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,Liverpool FC,0,1,0,Italy,England
+551918,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,Atalanta BC,Chelsea FC,2,1,2,Italy,England
+552041,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,Galatasaray SK,1,0,2,Monaco,Turkey
+552018,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,Royale Union Saint-Gilloise,Olympique de Marseille,2,3,0,Belgium,France
+552008,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,PSV,Club Atlético de Madrid,2,3,0,Netherlands,Spain
+551953,2025-12-09 20:00:00+00:00,LEAGUE_STAGE,FC Barcelona,Eintracht Frankfurt,2,1,2,Spain,Germany
+552034,2025-12-10 17:45:00+00:00,LEAGUE_STAGE,Qarabağ Ağdam FK,AFC Ajax,2,4,0,Azerbaijan,Netherlands
+552013,2025-12-10 17:45:00+00:00,LEAGUE_STAGE,Villarreal CF,FC København,2,3,0,Spain,Denmark
+551974,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,Newcastle United FC,2,2,1,Germany,England
+551977,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,Arsenal FC,0,3,0,Belgium,England
+551989,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,SSC Napoli,2,0,2,Portugal,Italy
+552005,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Juventus FC,Paphos FC,2,0,2,Italy,Cyprus
+551923,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,Manchester City FC,1,2,0,Spain,England
+551942,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,FK Bodø/Glimt,2,2,1,Germany,Norway
+551969,2025-12-10 20:00:00+00:00,LEAGUE_STAGE,Athletic Club,Paris Saint-Germain FC,0,0,1,Spain,France
+551996,2026-01-20 15:30:00+00:00,LEAGUE_STAGE,FK Kairat,Club Brugge KV,1,4,0,Kazakhstan,Belgium
+551966,2026-01-20 17:45:00+00:00,LEAGUE_STAGE,FK Bodø/Glimt,Manchester City FC,3,1,2,Norway,England
+551943,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,Tottenham Hotspur FC,Borussia Dortmund,2,0,2,England,Germany
+551962,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Paris Saint-Germain FC,2,1,2,Portugal,France
+551973,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,PAE Olympiakos SFP,Bayer 04 Leverkusen,2,0,2,Greece,Germany
+552011,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,Villarreal CF,AFC Ajax,1,2,0,Spain,Netherlands
+552038,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,FC København,SSC Napoli,1,1,1,Denmark,Italy
+551929,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,AS Monaco FC,6,1,2,Spain,Monaco
+551933,2026-01-20 20:00:00+00:00,LEAGUE_STAGE,FC Internazionale Milano,Arsenal FC,1,3,0,Italy,England
+552010,2026-01-21 17:45:00+00:00,LEAGUE_STAGE,Galatasaray SK,Club Atlético de Madrid,1,1,1,Turkey,Spain
+552001,2026-01-21 17:45:00+00:00,LEAGUE_STAGE,Qarabağ Ağdam FK,Eintracht Frankfurt,3,2,2,Azerbaijan,Germany
+551956,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,SK Slavia Praha,FC Barcelona,2,4,0,Czech Republic,Spain
+551986,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,Atalanta BC,Athletic Club,2,3,0,Italy,Spain
+551988,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,Juventus FC,Sport Lisboa e Benfica,2,0,2,Italy,Portugal
+552036,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,Newcastle United FC,PSV,3,0,2,England,Netherlands
+551914,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,FC Bayern München,Royale Union Saint-Gilloise,2,0,2,Germany,Belgium
+551921,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,Chelsea FC,Paphos FC,1,0,2,England,Cyprus
+551949,2026-01-21 20:00:00+00:00,LEAGUE_STAGE,Olympique de Marseille,Liverpool FC,0,3,0,France,England
+552030,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,AFC Ajax,PAE Olympiakos SFP,1,2,0,Netherlands,Greece
+551932,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,FC Internazionale Milano,0,2,0,Germany,Italy
+551926,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Sport Lisboa e Benfica,Real Madrid CF,4,2,2,Portugal,Spain
+551920,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,SSC Napoli,Chelsea FC,2,3,0,Italy,England
+552051,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Paphos FC,SK Slavia Praha,4,1,2,Cyprus,Czech Republic
+552050,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,Newcastle United FC,1,1,1,France,England
+552028,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Athletic Club,Sporting Clube de Portugal,2,3,0,Spain,Portugal
+551913,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,PSV,FC Bayern München,1,2,0,Netherlands,Germany
+552006,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,AS Monaco FC,Juventus FC,0,0,1,Monaco,Italy
+551998,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Eintracht Frankfurt,Tottenham Hotspur FC,0,2,0,Germany,England
+551993,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Club Brugge KV,Olympique de Marseille,3,0,2,Belgium,France
+551987,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Royale Union Saint-Gilloise,Atalanta BC,1,0,2,Belgium,Italy
+551980,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Arsenal FC,FK Kairat,3,2,2,England,Kazakhstan
+551970,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Bayer 04 Leverkusen,Villarreal CF,3,0,2,Germany,Spain
+551967,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Manchester City FC,Galatasaray SK,2,0,2,England,Turkey
+551957,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,FC Barcelona,FC København,4,1,2,Spain,Denmark
+552007,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Club Atlético de Madrid,FK Bodø/Glimt,1,2,0,Spain,Norway
+551950,2026-01-28 20:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Qarabağ Ağdam FK,6,0,2,England,Azerbaijan
+552055,2026-02-17 17:45:00+00:00,PLAYOFFS,Galatasaray SK,Juventus FC,5,2,2,Turkey,Italy
+552053,2026-02-17 20:00:00+00:00,PLAYOFFS,AS Monaco FC,Paris Saint-Germain FC,2,3,0,Monaco,France
+552052,2026-02-17 20:00:00+00:00,PLAYOFFS,Sport Lisboa e Benfica,Real Madrid CF,0,1,0,Portugal,Spain
+552057,2026-02-17 20:15:00+00:00,PLAYOFFS,Borussia Dortmund,Atalanta BC,2,0,2,Germany,Italy
+552054,2026-02-18 17:45:00+00:00,PLAYOFFS,Qarabağ Ağdam FK,Newcastle United FC,1,6,0,Azerbaijan,England
+552056,2026-02-18 20:00:00+00:00,PLAYOFFS,Club Brugge KV,Club Atlético de Madrid,3,3,1,Belgium,Spain
+552058,2026-02-18 20:00:00+00:00,PLAYOFFS,PAE Olympiakos SFP,Bayer 04 Leverkusen,0,2,0,Greece,Germany
+552059,2026-02-18 20:00:00+00:00,PLAYOFFS,FK Bodø/Glimt,FC Internazionale Milano,3,1,2,Norway,Italy
+552064,2026-02-24 17:45:00+00:00,PLAYOFFS,Club Atlético de Madrid,Club Brugge KV,4,1,2,Spain,Belgium
+552062,2026-02-24 20:00:00+00:00,PLAYOFFS,Newcastle United FC,Qarabağ Ağdam FK,3,2,2,England,Azerbaijan
+552066,2026-02-24 20:00:00+00:00,PLAYOFFS,Bayer 04 Leverkusen,PAE Olympiakos SFP,0,0,1,Germany,Greece
+552067,2026-02-24 20:00:00+00:00,PLAYOFFS,FC Internazionale Milano,FK Bodø/Glimt,1,2,0,Italy,Norway
+552065,2026-02-25 17:45:00+00:00,PLAYOFFS,Atalanta BC,Borussia Dortmund,4,1,2,Italy,Germany
+552060,2026-02-25 20:00:00+00:00,PLAYOFFS,Real Madrid CF,Sport Lisboa e Benfica,2,1,2,Spain,Portugal
+552061,2026-02-25 20:00:00+00:00,PLAYOFFS,Paris Saint-Germain FC,AS Monaco FC,2,2,1,France,Monaco
+552063,2026-02-25 20:00:00+00:00,PLAYOFFS,Juventus FC,Galatasaray SK,3,2,2,Italy,Turkey
+552069,2026-03-10 17:45:00+00:00,LAST_16,Galatasaray SK,Liverpool FC,1,0,2,Turkey,England
+552072,2026-03-10 20:00:00+00:00,LAST_16,Newcastle United FC,FC Barcelona,1,1,1,England,Spain
+552071,2026-03-10 20:00:00+00:00,LAST_16,Atalanta BC,FC Bayern München,1,6,0,Italy,Germany
+552073,2026-03-10 20:00:00+00:00,LAST_16,Club Atlético de Madrid,Tottenham Hotspur FC,5,2,2,Spain,England
+552075,2026-03-11 17:45:00+00:00,LAST_16,Bayer 04 Leverkusen,Arsenal FC,1,1,1,Germany,England
+552068,2026-03-11 20:00:00+00:00,LAST_16,Paris Saint-Germain FC,Chelsea FC,5,2,2,France,England
+552070,2026-03-11 20:00:00+00:00,LAST_16,Real Madrid CF,Manchester City FC,3,0,2,Spain,England
+552074,2026-03-11 20:00:00+00:00,LAST_16,FK Bodø/Glimt,Sporting Clube de Portugal,3,0,2,Norway,Portugal
+552082,2026-03-17 17:45:00+00:00,LAST_16,Sporting Clube de Portugal,FK Bodø/Glimt,5,0,2,Portugal,Norway
+552083,2026-03-17 20:00:00+00:00,LAST_16,Arsenal FC,Bayer 04 Leverkusen,2,0,2,England,Germany
+552076,2026-03-17 20:00:00+00:00,LAST_16,Chelsea FC,Paris Saint-Germain FC,0,3,0,England,France
+552078,2026-03-17 20:00:00+00:00,LAST_16,Manchester City FC,Real Madrid CF,1,2,0,England,Spain
+552080,2026-03-18 17:45:00+00:00,LAST_16,FC Barcelona,Newcastle United FC,7,2,2,Spain,England
+552077,2026-03-18 20:00:00+00:00,LAST_16,Liverpool FC,Galatasaray SK,4,0,2,England,Turkey
+552079,2026-03-18 20:00:00+00:00,LAST_16,FC Bayern München,Atalanta BC,4,1,2,Germany,Italy
+552081,2026-03-18 20:00:00+00:00,LAST_16,Tottenham Hotspur FC,Club Atlético de Madrid,3,2,2,England,Spain
+556719,2026-04-07 19:00:00+00:00,QUARTER_FINALS,Real Madrid CF,FC Bayern München,1,2,0,Spain,Germany
+556721,2026-04-07 19:00:00+00:00,QUARTER_FINALS,Sporting Clube de Portugal,Arsenal FC,0,1,0,Portugal,England
+556720,2026-04-08 19:00:00+00:00,QUARTER_FINALS,FC Barcelona,Club Atlético de Madrid,0,2,0,Spain,Spain
+556718,2026-04-08 19:00:00+00:00,QUARTER_FINALS,Paris Saint-Germain FC,Liverpool FC,2,0,2,France,England
+556724,2026-04-14 19:00:00+00:00,QUARTER_FINALS,Club Atlético de Madrid,FC Barcelona,1,2,0,Spain,Spain
+556722,2026-04-14 19:00:00+00:00,QUARTER_FINALS,Liverpool FC,Paris Saint-Germain FC,0,2,0,England,France
+556723,2026-04-15 19:00:00+00:00,QUARTER_FINALS,FC Bayern München,Real Madrid CF,4,3,2,Germany,Spain
+556725,2026-04-15 19:00:00+00:00,QUARTER_FINALS,Arsenal FC,Sporting Clube de Portugal,0,0,1,England,Portugal
+552092,2026-04-28 19:00:00+00:00,SEMI_FINALS,Paris Saint-Germain FC,FC Bayern München,5,4,2,France,Germany
+552093,2026-04-29 19:00:00+00:00,SEMI_FINALS,Club Atlético de Madrid,Arsenal FC,1,1,1,Spain,England
+552095,2026-05-05 19:00:00+00:00,SEMI_FINALS,Arsenal FC,Club Atlético de Madrid,1,0,2,England,Spain
+552094,2026-05-06 19:00:00+00:00,SEMI_FINALS,FC Bayern München,Paris Saint-Germain FC,1,1,1,Germany,France
+552096,2026-05-30 16:00:00+00:00,FINAL,Paris Saint-Germain FC,Arsenal FC,5,4,2,France,England
+575323,2026-09-08 16:45:00+00:00,LEAGUE_STAGE,Club Brugge KV,Aston Villa FC,2,3,0,Belgium,England
+575324,2026-09-08 16:45:00+00:00,LEAGUE_STAGE,PAE AEK,LASK Linz,1,0,2,Greece,Austria
+575325,2026-09-08 19:00:00+00:00,LEAGUE_STAGE,Real Madrid CF,FC Internazionale Milano,2,1,2,Spain,Italy
+575326,2026-09-08 19:00:00+00:00,LEAGUE_STAGE,FC Porto,Manchester City FC,0,2,0,Portugal,England
+575327,2026-09-08 19:00:00+00:00,LEAGUE_STAGE,Borussia Dortmund,Villarreal CF,3,2,2,Germany,Spain
+575328,2026-09-08 19:00:00+00:00,LEAGUE_STAGE,Lille OSC,Real Betis Balompié,2,3,0,France,Spain
+575329,2026-09-09 16:45:00+00:00,LEAGUE_STAGE,FC Barcelona,Feyenoord Rotterdam,5,1,2,Spain,Netherlands
+575330,2026-09-09 16:45:00+00:00,LEAGUE_STAGE,VfB Stuttgart,Viking FK,3,1,2,Germany,Norway
+575334,2026-09-09 19:00:00+00:00,LEAGUE_STAGE,Sporting Clube de Portugal,Galatasaray SK,3,1,2,Portugal,Turkey
+575333,2026-09-09 19:00:00+00:00,LEAGUE_STAGE,SSC Napoli,Arsenal FC,0,1,0,Italy,England
+575331,2026-09-09 19:00:00+00:00,LEAGUE_STAGE,Liverpool FC,Club Atlético de Madrid,2,1,2,England,Spain
+575332,2026-09-09 19:00:00+00:00,LEAGUE_STAGE,Paris Saint-Germain FC,ŠK Slovan Bratislava,6,1,2,France,Slovakia
+575335,2026-09-10 16:45:00+00:00,LEAGUE_STAGE,Fenerbahçe SK,AS Roma,1,1,1,Turkey,Italy
+575336,2026-09-10 16:45:00+00:00,LEAGUE_STAGE,PSV,FK Shakhtar Donetsk,1,1,1,Netherlands,Ukraine
+575339,2026-09-10 19:00:00+00:00,LEAGUE_STAGE,Como 1907,RB Leipzig,4,1,2,Italy,Germany
+575337,2026-09-10 19:00:00+00:00,LEAGUE_STAGE,FC Bayern München,FK Bodø/Glimt,5,0,2,Germany,Norway
+575338,2026-09-10 19:00:00+00:00,LEAGUE_STAGE,Manchester United FC,Sabah FK,4,0,2,England,Azerbaijan
+575340,2026-09-10 19:00:00+00:00,LEAGUE_STAGE,SK Slavia Praha,Racing Club de Lens,2,3,0,Czech Republic,France

@@ -1,0 +1,326 @@
+[
+  {
+    "Club":"FC Bayern M\u00fcnchen",
+    "Swiss_Top8":"90.6%",
+    "R16_Pct":"98.8%",
+    "Quarters_Pct":"89.7%",
+    "Semis_Pct":"58.1%",
+    "Finalist_Pct":"34.3%",
+    "Champion_Pct":"18.93%"
+  },
+  {
+    "Club":"Arsenal FC",
+    "Swiss_Top8":"89.2%",
+    "R16_Pct":"99.1%",
+    "Quarters_Pct":"89.8%",
+    "Semis_Pct":"57.5%",
+    "Finalist_Pct":"34.4%",
+    "Champion_Pct":"18.58%"
+  },
+  {
+    "Club":"Real Madrid CF",
+    "Swiss_Top8":"86.6%",
+    "R16_Pct":"98.6%",
+    "Quarters_Pct":"86.2%",
+    "Semis_Pct":"49.5%",
+    "Finalist_Pct":"27.4%",
+    "Champion_Pct":"14.07%"
+  },
+  {
+    "Club":"Paris Saint-Germain FC",
+    "Swiss_Top8":"88.5%",
+    "R16_Pct":"98.4%",
+    "Quarters_Pct":"88.1%",
+    "Semis_Pct":"51.6%",
+    "Finalist_Pct":"27.7%",
+    "Champion_Pct":"13.41%"
+  },
+  {
+    "Club":"Manchester City FC",
+    "Swiss_Top8":"72.5%",
+    "R16_Pct":"97.5%",
+    "Quarters_Pct":"74.6%",
+    "Semis_Pct":"37.2%",
+    "Finalist_Pct":"17.0%",
+    "Champion_Pct":"8.61%"
+  },
+  {
+    "Club":"Liverpool FC",
+    "Swiss_Top8":"77.3%",
+    "R16_Pct":"97.2%",
+    "Quarters_Pct":"75.2%",
+    "Semis_Pct":"37.6%",
+    "Finalist_Pct":"17.8%",
+    "Champion_Pct":"8.43%"
+  },
+  {
+    "Club":"FC Internazionale Milano",
+    "Swiss_Top8":"72.6%",
+    "R16_Pct":"97.4%",
+    "Quarters_Pct":"73.4%",
+    "Semis_Pct":"35.4%",
+    "Finalist_Pct":"16.0%",
+    "Champion_Pct":"7.67%"
+  },
+  {
+    "Club":"FC Barcelona",
+    "Swiss_Top8":"67.2%",
+    "R16_Pct":"96.4%",
+    "Quarters_Pct":"68.6%",
+    "Semis_Pct":"31.1%",
+    "Finalist_Pct":"12.8%",
+    "Champion_Pct":"5.58%"
+  },
+  {
+    "Club":"Club Atl\u00e9tico de Madrid",
+    "Swiss_Top8":"54.4%",
+    "R16_Pct":"95.8%",
+    "Quarters_Pct":"58.3%",
+    "Semis_Pct":"22.9%",
+    "Finalist_Pct":"8.2%",
+    "Champion_Pct":"3.31%"
+  },
+  {
+    "Club":"Borussia Dortmund",
+    "Swiss_Top8":"41.2%",
+    "R16_Pct":"93.4%",
+    "Quarters_Pct":"42.1%",
+    "Semis_Pct":"14.1%",
+    "Finalist_Pct":"4.2%",
+    "Champion_Pct":"1.33%"
+  },
+  {
+    "Club":"PSV",
+    "Swiss_Top8":"7.6%",
+    "R16_Pct":"62.6%",
+    "Quarters_Pct":"9.3%",
+    "Semis_Pct":"1.3%",
+    "Finalist_Pct":"0.1%",
+    "Champion_Pct":"0.05%"
+  },
+  {
+    "Club":"Aston Villa FC",
+    "Swiss_Top8":"8.9%",
+    "R16_Pct":"67.2%",
+    "Quarters_Pct":"8.2%",
+    "Semis_Pct":"0.8%",
+    "Finalist_Pct":"0.1%",
+    "Champion_Pct":"0.02%"
+  },
+  {
+    "Club":"Club Brugge KV",
+    "Swiss_Top8":"3.5%",
+    "R16_Pct":"28.4%",
+    "Quarters_Pct":"2.9%",
+    "Semis_Pct":"0.3%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.01%"
+  },
+  {
+    "Club":"FK Shakhtar Donetsk",
+    "Swiss_Top8":"1.0%",
+    "R16_Pct":"3.8%",
+    "Quarters_Pct":"0.1%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"RB Leipzig",
+    "Swiss_Top8":"1.4%",
+    "R16_Pct":"25.2%",
+    "Quarters_Pct":"1.2%",
+    "Semis_Pct":"0.1%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"SK Slavia Praha",
+    "Swiss_Top8":"0.4%",
+    "R16_Pct":"1.1%",
+    "Quarters_Pct":"0.1%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"FK Bod\u00f8\/Glimt",
+    "Swiss_Top8":"1.5%",
+    "R16_Pct":"11.5%",
+    "Quarters_Pct":"0.6%",
+    "Semis_Pct":"0.1%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"PAE AEK",
+    "Swiss_Top8":"0.9%",
+    "R16_Pct":"3.3%",
+    "Quarters_Pct":"0.3%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"LASK Linz",
+    "Swiss_Top8":"0.7%",
+    "R16_Pct":"2.3%",
+    "Quarters_Pct":"0.1%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Viking FK",
+    "Swiss_Top8":"0.7%",
+    "R16_Pct":"2.4%",
+    "Quarters_Pct":"0.2%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Como 1907",
+    "Swiss_Top8":"3.4%",
+    "R16_Pct":"44.5%",
+    "Quarters_Pct":"3.5%",
+    "Semis_Pct":"0.3%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"\u0160K Slovan Bratislava",
+    "Swiss_Top8":"0.5%",
+    "R16_Pct":"1.7%",
+    "Quarters_Pct":"0.1%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Feyenoord Rotterdam",
+    "Swiss_Top8":"1.9%",
+    "R16_Pct":"26.2%",
+    "Quarters_Pct":"1.4%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Lille OSC",
+    "Swiss_Top8":"2.6%",
+    "R16_Pct":"34.1%",
+    "Quarters_Pct":"2.1%",
+    "Semis_Pct":"0.2%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Fenerbah\u00e7e SK",
+    "Swiss_Top8":"1.6%",
+    "R16_Pct":"8.4%",
+    "Quarters_Pct":"0.6%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Galatasaray SK",
+    "Swiss_Top8":"1.2%",
+    "R16_Pct":"15.2%",
+    "Quarters_Pct":"0.7%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Racing Club de Lens",
+    "Swiss_Top8":"0.9%",
+    "R16_Pct":"19.6%",
+    "Quarters_Pct":"0.6%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"FC Porto",
+    "Swiss_Top8":"1.7%",
+    "R16_Pct":"25.0%",
+    "Quarters_Pct":"1.5%",
+    "Semis_Pct":"0.1%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Sporting Clube de Portugal",
+    "Swiss_Top8":"6.1%",
+    "R16_Pct":"63.0%",
+    "Quarters_Pct":"8.4%",
+    "Semis_Pct":"1.1%",
+    "Finalist_Pct":"0.1%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"SSC Napoli",
+    "Swiss_Top8":"2.5%",
+    "R16_Pct":"33.1%",
+    "Quarters_Pct":"1.9%",
+    "Semis_Pct":"0.2%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"AS Roma",
+    "Swiss_Top8":"2.8%",
+    "R16_Pct":"38.6%",
+    "Quarters_Pct":"2.7%",
+    "Semis_Pct":"0.2%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Villarreal CF",
+    "Swiss_Top8":"1.1%",
+    "R16_Pct":"14.6%",
+    "Quarters_Pct":"0.7%",
+    "Semis_Pct":"0.1%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Real Betis Balompi\u00e9",
+    "Swiss_Top8":"3.7%",
+    "R16_Pct":"44.7%",
+    "Quarters_Pct":"3.5%",
+    "Semis_Pct":"0.3%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Manchester United FC",
+    "Swiss_Top8":"1.5%",
+    "R16_Pct":"24.8%",
+    "Quarters_Pct":"1.3%",
+    "Semis_Pct":"0.1%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"VfB Stuttgart",
+    "Swiss_Top8":"1.1%",
+    "R16_Pct":"23.9%",
+    "Quarters_Pct":"1.6%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  },
+  {
+    "Club":"Sabah FK",
+    "Swiss_Top8":"0.6%",
+    "R16_Pct":"2.0%",
+    "Quarters_Pct":"0.1%",
+    "Semis_Pct":"0.0%",
+    "Finalist_Pct":"0.0%",
+    "Champion_Pct":"0.00%"
+  }
+]

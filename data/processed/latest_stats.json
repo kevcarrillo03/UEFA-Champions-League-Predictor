@@ -1,0 +1,357 @@
+{
+  "BSC Young Boys": {
+    "ucl_experience": 14.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.721003564573622
+  },
+  "AC Milan": {
+    "ucl_experience": 16.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.2924321360021938
+  },
+  "SS Lazio": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.006717850287908
+  },
+  "Feyenoord Rotterdam": {
+    "ucl_experience": 19.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "Paris Saint-Germain FC": {
+    "ucl_experience": 47.0,
+    "smoothed_gf": 2.5781464217164793,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Manchester City FC": {
+    "ucl_experience": 31.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "FC Barcelona": {
+    "ucl_experience": 37.0,
+    "smoothed_gf": 2.149574993145051,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "FK Shakhtar Donetsk": {
+    "ucl_experience": 15.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 2.2924321360021938
+  },
+  "Galatasaray SK": {
+    "ucl_experience": 19.0,
+    "smoothed_gf": 1.8638607074307652,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Real Madrid CF": {
+    "ucl_experience": 42.0,
+    "smoothed_gf": 2.006717850287908,
+    "smoothed_ga": 1.7210035645736224
+  },
+  "Real Sociedad de F\u00fatbol": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.1495749931450507
+  },
+  "Sevilla FC": {
+    "ucl_experience": 6.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Sporting Clube de Braga": {
+    "ucl_experience": 6.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "FC Bayern M\u00fcnchen": {
+    "ucl_experience": 41.0,
+    "smoothed_gf": 2.2924321360021938,
+    "smoothed_ga": 2.149574993145051
+  },
+  "Arsenal FC": {
+    "ucl_experience": 40.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "Sport Lisboa e Benfica": {
+    "ucl_experience": 28.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "FC Red Bull Salzburg": {
+    "ucl_experience": 14.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 2.721003564573622
+  },
+  "1. FC Union Berlin": {
+    "ucl_experience": 6.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "SSC Napoli": {
+    "ucl_experience": 17.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "FC Internazionale Milano": {
+    "ucl_experience": 34.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "FC K\u00f8benhavn": {
+    "ucl_experience": 16.0,
+    "smoothed_gf": 1.7210035645736224,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Manchester United FC": {
+    "ucl_experience": 7.0,
+    "smoothed_gf": 1.7210035645736224,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "Racing Club de Lens": {
+    "ucl_experience": 7.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.006717850287908
+  },
+  "PSV": {
+    "ucl_experience": 29.0,
+    "smoothed_gf": 1.7210035645736224,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Club Atl\u00e9tico de Madrid": {
+    "ucl_experience": 37.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.2924321360021938
+  },
+  "Royal Antwerp FC": {
+    "ucl_experience": 6.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.149574993145051
+  },
+  "Newcastle United FC": {
+    "ucl_experience": 18.0,
+    "smoothed_gf": 2.2924321360021938,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "Celtic FC": {
+    "ucl_experience": 16.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "Borussia Dortmund": {
+    "ucl_experience": 38.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "RB Leipzig": {
+    "ucl_experience": 17.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "FC Porto": {
+    "ucl_experience": 9.0,
+    "smoothed_gf": 2.006717850287908,
+    "smoothed_ga": 2.149574993145051
+  },
+  "FK Crvena Zvezda": {
+    "ucl_experience": 14.0,
+    "smoothed_gf": 2.149574993145051,
+    "smoothed_ga": 2.2924321360021938
+  },
+  "Juventus FC": {
+    "ucl_experience": 20.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "Sporting Clube de Portugal": {
+    "ucl_experience": 23.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.2924321360021938
+  },
+  "Bologna FC 1909": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.2924321360021938
+  },
+  "AC Sparta Praha": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.5781464217164793
+  },
+  "Club Brugge KV": {
+    "ucl_experience": 23.0,
+    "smoothed_gf": 2.2924321360021938,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "AS Monaco FC": {
+    "ucl_experience": 20.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Stade Brestois 29": {
+    "ucl_experience": 10.0,
+    "smoothed_gf": 0.863860707430765,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "Atalanta BC": {
+    "ucl_experience": 22.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 2.149574993145051
+  },
+  "VfB Stuttgart": {
+    "ucl_experience": 9.0,
+    "smoothed_gf": 2.149574993145051,
+    "smoothed_ga": 2.2924321360021938
+  },
+  "Bayer 04 Leverkusen": {
+    "ucl_experience": 22.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 0.863860707430765
+  },
+  "\u0160K Slovan Bratislava": {
+    "ucl_experience": 9.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 2.4352892788593365
+  },
+  "Girona FC": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 0.7210035645736221,
+    "smoothed_ga": 1.7210035645736224
+  },
+  "SK Sturm Graz": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.006717850287908
+  },
+  "Liverpool FC": {
+    "ucl_experience": 23.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "Aston Villa FC": {
+    "ucl_experience": 13.0,
+    "smoothed_gf": 2.149574993145051,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "Lille OSC": {
+    "ucl_experience": 11.0,
+    "smoothed_gf": 2.006717850287908,
+    "smoothed_ga": 1.5781464217164793
+  },
+  "GNK Dinamo Zagreb": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.7210035645736224
+  },
+  "Athletic Club": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.2924321360021938
+  },
+  "Tottenham Hotspur FC": {
+    "ucl_experience": 10.0,
+    "smoothed_gf": 2.006717850287908,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "SK Slavia Praha": {
+    "ucl_experience": 9.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.2924321360021938
+  },
+  "PAE Olympiakos SFP": {
+    "ucl_experience": 10.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.1495749931450507
+  },
+  "AFC Ajax": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "Eintracht Frankfurt": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "FK Kairat": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 2.149574993145051
+  },
+  "Paphos FC": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 1.4352892788593365
+  },
+  "Chelsea FC": {
+    "ucl_experience": 10.0,
+    "smoothed_gf": 1.7210035645736224,
+    "smoothed_ga": 2.006717850287908
+  },
+  "FK Bod\u00f8/Glimt": {
+    "ucl_experience": 13.0,
+    "smoothed_gf": 1.8638607074307652,
+    "smoothed_ga": 1.7210035645736224
+  },
+  "Olympique de Marseille": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.4352892788593365,
+    "smoothed_ga": 1.7210035645736224
+  },
+  "Qaraba\u011f A\u011fdam FK": {
+    "ucl_experience": 10.0,
+    "smoothed_gf": 1.5781464217164793,
+    "smoothed_ga": 3.2924321360021938
+  },
+  "Royale Union Saint-Gilloise": {
+    "ucl_experience": 8.0,
+    "smoothed_gf": 1.2924321360021938,
+    "smoothed_ga": 1.8638607074307652
+  },
+  "Villarreal CF": {
+    "ucl_experience": 9.0,
+    "smoothed_gf": 1.1495749931450507,
+    "smoothed_ga": 2.4352892788593365
+  },
+  "PAE AEK": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "Fenerbah\u00e7e SK": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "Como 1907": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "LASK Linz": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "Real Betis Balompi\u00e9": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "Viking FK": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "AS Roma": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  },
+  "Sabah FK": {
+    "ucl_experience": 1.0,
+    "smoothed_gf": 1.682341650671785,
+    "smoothed_ga": 1.682341650671785
+  }
+}
