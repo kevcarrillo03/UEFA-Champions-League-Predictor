@@ -12,11 +12,18 @@ This project was built to accurately model UEFA's radically new **2024/25 36-tea
 Standard football Elo systems treat all domestic leagues equally. This model employs a custom initialization logic that mathematically balances the strength of schedule across different European leagues (e.g., weighting the Premier League differently than the Scottish Premiership).
 
 When a new team enters the tournament without historical data, their base Elo is initialized using a tier-weighted formula:
-$$ R_{initial} = 1300 + (T \times 50) $$
+
+$$ 
+R_{initial} = 1300 + (T \times 50) 
+$$
+
 *(Where $T$ is the domestic league tier, ranging from 1 to 4).*
 
 During knockout phase tiebreakers (simulating extra time and penalties), the engine reverts to the standard Elo expected-probability formula, factoring in a static $+35$ Elo home-field advantage for the second leg:
-$$ E_{home} = \frac{1}{1 + 10^{(R_{away} - (R_{home} + 35)) / 400}} $$
+
+$$ 
+E_{home} = \frac{1}{1 + 10^{(R_{away} - (R_{home} + 35)) / 400}} 
+$$
 
 ### 2. XGBoost Probability Matrix
 Rather than relying on simple Poisson distributions for goalscoring, the predictor uses an **XGBoost (Extreme Gradient Boosting)** model trained on hundreds of historical Champions League fixtures.
@@ -24,7 +31,10 @@ Rather than relying on simple Poisson distributions for goalscoring, the predict
 - It outputs a precise 90-minute categorical probability matrix: `(Home Win %, Draw %, Away Win %)`.
 
 To simulate the inherent chaos of the new Swiss Phase (where teams often rotate squads after securing qualification), the model applies **Temperature Scaling** ($T = 1.15$) to the softmax outputs to flatten the distribution and introduce realistic variance:
-$$ p_i = \frac{p_i^{1/T}}{\sum_j p_j^{1/T}} $$
+
+$$ 
+p_i = \frac{p_i^{1/T}}{\sum_j p_j^{1/T}} 
+$$
 
 ### 3. The Monte Carlo Engine (10,000x Simulations)
 The core simulation engine programmatically replicates UEFA's new complex tournament structure 10,000 times to map the variance of the tournament:
